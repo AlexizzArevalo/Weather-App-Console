@@ -4,11 +4,12 @@
 
 Ejecutar `npm install`
 
-Ejecute `npm app help` para obtener ayuda
+Ejecute `node app help` para obtener ayuda
 
 ## Uso
 
 `node app -d Guatemala`
+
 `node app -d "New York"`
 
 ## Opciones
